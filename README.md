@@ -46,10 +46,11 @@ Run npm install and then make an .env file to store your backend url:
 REACT_APP_BACKEND_URL={backend url, example: http://localhost:4000/api/1.0}
 ```
 
-### 4. Run the apps
+### 4. Run the frontend and backend
 
 ```
-You can run in dev mode with npm run dev or in production with npm start
+Run npm start in the frontend.
+In the backend you can run in dev mode with npm run dev or in production with npm start
 
 You can also execute automated test in backend with npm test
 ```
